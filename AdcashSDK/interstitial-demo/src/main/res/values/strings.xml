@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Interstitial Demo</string>
+
+    <string name="hello_interstitial">Hello interstitial!</string>
+    <string name="action_settings">Settings</string>
+</resources>

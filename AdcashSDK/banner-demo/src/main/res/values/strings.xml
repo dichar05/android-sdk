@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Banner Demo</string>
+    <string name="hello_banner">Hello banner!</string>
+    <string name="action_settings">Settings</string>
+</resources>
